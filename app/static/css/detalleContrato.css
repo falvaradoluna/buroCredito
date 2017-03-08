@@ -1,0 +1,40 @@
+.rojo {
+    color: #FFEB7D;
+}
+.naranja {
+    background-color: #FFB44B;
+}
+.verde {
+    background-color: #96CD39;
+}
+.gris {
+    background-color: #FAF8F8;
+}
+
+/* opc pasteles
+
+.rojo {
+    background-color: #FFD6A4;
+}
+.naranja {
+    background-color: #FFFACD;
+}
+.verde {
+    background-color: #FAFAD2;
+    /*#ABCD9E;#EAEFC4;
+}*/
+
+.izquierda {
+    float: left;
+    width: 50%
+}
+.derecha {
+    float: left;
+    width: 50%
+}
+.tdMonto {
+    text-align: right;
+}
+.iconoStar {
+    font-size: 20px !important;
+}
